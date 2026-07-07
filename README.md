@@ -107,29 +107,29 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tama-technology17&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tama-technology17&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 
   <br><br>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tama-technology17&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%" />
 
   <br><br>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tama-technology17&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 
   <br><br>
 
   <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile Summary" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tama-technology17&theme=github_dark" alt="Profile Summary" width="95%" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tama-technology17&theme=github_dark" alt="Repos per Language" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tama-technology17&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
@@ -266,22 +266,22 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tama-technology17&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" width="100%" />
 
   <br><br>
 
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Total%20Profile%20Visitors&color=58a6ff&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=tama-technology17&label=Total%20Profile%20Visitors&color=58a6ff&style=for-the-badge" alt="Visitor Counter" />
 
   <br><br>
 
   <!-- Followers & Stars -->
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?color=58a6ff&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
+  <a href="https://github.com/tama-technology17?tab=followers">
+    <img src="https://img.shields.io/github/followers/tama-technology17?color=58a6ff&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?color=ffd700&label=Total%20Stars&logo=github&style=for-the-badge" alt="Stars" />
+  <a href="https://github.com/tama-technology17?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tama-technology17?color=ffd700&label=Total%20Stars&logo=github&style=for-the-badge" alt="Stars" />
   </a>
 
 </div>
@@ -315,7 +315,7 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 > Open to collaborations, learning together, and meaningful conversations.
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/tama-technology17" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
@@ -323,7 +323,7 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://tamatechnology.web.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
@@ -361,14 +361,14 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CUSTOMIZATION CHECKLIST                      -->
 <!--                                                                 -->
-<!--  1. Replace YOUR_USERNAME with your actual GitHub username      -->
-<!--  2. Replace your.email@example.com with your real email         -->
-<!--  3. Replace https://your-website.com with your portfolio URL    -->
+<!--  1. ✅ Username updated: tama-technology17                        -->
+<!--  2. ✅ Website updated: tamatechnology.web.id                     -->
+<!--  3. Update your email in the Contact section                    -->
 <!--  4. Update the Featured Projects section with real projects     -->
 <!--  5. Adjust the Learning Roadmap to match your progress          -->
 <!--  6. Update the About Me section with your personal story      -->
 <!--  7. Add/remove tech badges as needed                            -->
 <!--  8. Customize the quote if desired                              -->
 <!--  9. Add LinkedIn or other social links                          -->
-<!-- 10. Save as README.md in a repo named YOUR_USERNAME             -->
+<!-- 10. Save as README.md in a repo named tama-technology17         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
