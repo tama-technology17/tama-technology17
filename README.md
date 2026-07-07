@@ -27,12 +27,12 @@
   <!-- Profile Views & Social Badges -->
   <img src="https://komarev.com/ghpvc/?username=tama-technology17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/tama-technology17?tab=followers">
+    <img src="https://img.shields.io/github/followers/tama-technology17?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=ffd700&logo=github" alt="GitHub Stars" />
+  <a href="https://github.com/tama-technology17?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tama-technology17?label=Stars&style=flat-square&color=ffd700&logo=github" alt="GitHub Stars" />
   </a>
 
 </div>
