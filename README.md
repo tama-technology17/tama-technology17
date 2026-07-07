@@ -13,7 +13,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;Backend+Enthusiast;Clean+Code+Advocate;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tama;Full+Stack+Developer;Backend+Enthusiast;Clean+Code+Advocate;Lifelong+Learner" alt="Typing Animation" />
 
   <br>
 
@@ -25,7 +25,7 @@
   <br>
 
   <!-- Profile Views & Social Badges -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tama-technology17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers" />
