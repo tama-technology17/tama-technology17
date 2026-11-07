@@ -266,8 +266,11 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tama-technology17&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" width="100%" />
-
+<img
+  src="https://trophy.ryglcloud.net/?username=tama-technology17&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
+  alt="GitHub Trophies"
+  width="100%"
+/>
   <br><br>
 
   <!-- Visitor Counter -->
