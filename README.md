@@ -114,7 +114,11 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
 />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tama-technology17&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tama-technology17&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Top Languages"
+  height="180"
+/>
 
   <br><br>
 
@@ -122,10 +126,13 @@ I'm a dedicated software developer with a strong interest in **backend engineeri
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tama-technology17&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%" />
 
   <br><br>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tama-technology17&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-
+  
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=tama-technology17&theme=github-dark&hide_border=true&area=true"
+  alt="Activity Graph"
+  width="95%"
+/>
   <br><br>
 
   <!-- Profile Summary Cards -->
